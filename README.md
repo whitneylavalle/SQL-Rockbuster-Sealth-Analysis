@@ -4,7 +4,7 @@ Rockbuster stealth used to have stores around the world, but is facing stiff com
 
 I was tasked with acting as the data analyst for the BI department to help with the launch strategy for the new online video service.
 
-First I loaded all of Rockbuster's data into a relational databse management system (RDBMS) before using SQL to analzye the data and answer key business questions.
+First, I loaded all of Rockbuster's data into a relational databse management system (RDBMS) before using SQL & Tableau to analzye the data and answer key business questions.
 
 Key questions included:
 1. Which movies contributed the most/least to revenue gain?
@@ -15,32 +15,34 @@ Key questions included:
 
 I used SQL queries and Tableau to answer these questions in the form of a final presentation.
 
-Accompanying visualizations incldued below. Data dictionary, final presentation, and SQL queries included in his repository as separate files. SQL queries (and corresponding outputs) used to create the final presentation and answer the above business questions uploaded as one Excel file. Additional SQL queries not used to asnwer the above questions directly are included in a separate Excel file. SQL queries were used in PostgreSQL. 
+Accompanying visualizations incldued below.
+
+Data dictionary, final presentation, and SQL queries included in his repository as separate files. SQL queries (and corresponding outputs) used to create the final presentation and answer the above business questions uploaded as one Excel file. Additional SQL queries not used to asnwer the above questions directly are included in a separate Excel file. SQL queries were used in PostgreSQL. 
 
 
-Data Summary:
+
 ![This is an image](https://user-images.githubusercontent.com/97590184/149231780-71ae2aa8-728a-41a0-94ca-ffce5391281b.png)
 
-Q1:
+
 ![This is an image](https://user-images.githubusercontent.com/97590184/149232251-ad7704a8-c610-4bea-93b9-6f9fa4768554.png)
 
 
 ![This is an image](https://user-images.githubusercontent.com/97590184/149232511-4a197067-960a-4cb4-9254-82f2b59ff1c5.png)
 ![This is an image](https://user-images.githubusercontent.com/97590184/149232577-d4a434dc-d4f0-4682-8338-9d0acb9a1915.png)
 
-Q2:
+
 ![This is an image](https://user-images.githubusercontent.com/97590184/149232772-763498b4-0833-45da-b9b6-0df7809b25e0.png)
 
 
-Q3:
+
 ![This is an image](https://user-images.githubusercontent.com/97590184/149233405-ec0ec7cb-3203-4b41-ac88-bf8e0768809f.png)
 
 
-Q4:
+
 ![This is an image](https://user-images.githubusercontent.com/97590184/149233533-3ed6bfe9-44ac-4f51-8e96-099aacfc2dcb.png)
 
 
-Q5:
+
 ![This is an image](https://user-images.githubusercontent.com/97590184/149233668-9c4c4ca2-fd5f-4361-b011-a656d0e35840.png)
 
 
