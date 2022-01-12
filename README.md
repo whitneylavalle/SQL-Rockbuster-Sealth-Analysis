@@ -6,7 +6,7 @@ I was tasked with acting as the data analyst for the BI department to help with 
 
 First, I loaded all of Rockbuster's data into a relational databse management system (RDBMS) before using SQL & Tableau to clean/quality check the data and subsequently conduct analysis to answer key business questions.
 
-Key questions included:
+Key Business Questions:
 1. Which movies contributed the most/least to revenue gain?
 2. What was the average rental duration for all videos?
 3. Which countries are Rockbuster customers based in?
