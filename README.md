@@ -15,7 +15,7 @@ Key questions included:
 
 I used SQL queries and Tableau to answer these questions in the form of a final presentation.
 
-Accompanying visualizations incldued below. Data dictionary, final presentation, and SQL queries included in his repository as separate files. 
+Accompanying visualizations incldued below. Data dictionary, final presentation, and SQL queries included in his repository as separate files. SQL queries (and corresponding outputs) uploaded as one Excel file. SQL queries were used in PostgreSQL. 
 
 
 Data Summary:
