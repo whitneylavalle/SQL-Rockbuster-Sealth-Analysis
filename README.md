@@ -13,7 +13,9 @@ Key questions included:
 4. Where are customers with a high lifetime value based?
 5. Do sales figures vary between geographic regions?
 
-I used SQL queries and Tableau to answer these questions in the form of a final presentation. Accompanying visualizations incldued below, SQL queries and final presentation included in his repository as separate files. 
+I used SQL queries and Tableau to answer these questions in the form of a final presentation.
+
+Accompanying visualizations incldued below. Data dictionary, final presentation, and SQL queries included in his repository as separate files. 
 
 
 Data Summary:
