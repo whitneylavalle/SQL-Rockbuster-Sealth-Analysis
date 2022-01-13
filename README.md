@@ -17,7 +17,7 @@ I used SQL queries and Tableau to answer these questions in the form of a final 
 
 Accompanying visualizations included below.
 
-Data dictionary, final presentation, and SQL queries included in his repository as separate files. SQL queries (and corresponding outputs) used to create the final presentation and answer the above business questions uploaded as one Excel file. Additional SQL queries not used to asnwer the above questions directly are included in a separate Excel file. SQL queries were used in PostgreSQL. 
+Data dictionary, final presentation, and SQL queries included in his repository as separate files. SQL queries (and corresponding outputs) used to create the final presentation and answer the above business questions uploaded as one Excel file. Additional SQL queries not used to answer the above questions directly are included in a separate Excel file. SQL queries were used in PostgreSQL. 
 
 
 
