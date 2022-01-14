@@ -4,7 +4,7 @@ Rockbuster stealth used to have stores around the world, but is facing stiff com
 
 I was tasked with acting as the data analyst for the BI department to help with the launch strategy for the new online video service.
 
-First, I loaded all of Rockbuster's data into a relational databse management system (RDBMS) before using SQL & Tableau to clean/quality check the data and subsequently conduct analysis to answer key business questions.
+First, I loaded all of Rockbuster's data into a relational database management system (RDBMS) before using SQL & Tableau to clean/quality check the data and subsequently conduct analysis to answer key business questions.
 
 Key Business Questions:
 1. Which movies contributed the most/least to revenue gain?
